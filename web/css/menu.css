@@ -1,0 +1,38 @@
+#navbar-menu.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#navbar-menu.navbar-default {
+    font-size: 16px;
+    background-color: rgba(32, 86, 172, 1);
+    border-width: 0px;
+    border-radius: 0px;
+}
+#navbar-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+#navbar-menu.navbar-default .navbar-nav>li>a:hover,
+#navbar-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(0, 0, 0, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+#navbar-menu.navbar-default .navbar-nav>.active>a,
+#navbar-menu.navbar-default .navbar-nav>.active>a:hover,
+#navbar-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(85, 85, 85, 1);
+    background-color: rgba(224, 224, 224, 1);
+}
+#navbar-menu.navbar-default .navbar-toggle {
+    border-color: #e0e0e0;
+}
+#navbar-menu.navbar-default .navbar-toggle:hover,
+#navbar-menu.navbar-default .navbar-toggle:focus {
+    background-color: #e0e0e0;
+}
+#navbar-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #e0e0e0;
+}
+#navbar-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#navbar-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #2056ac;
+}
